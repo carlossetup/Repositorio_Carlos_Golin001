@@ -4,4 +4,5 @@
     nsPrefix="repositorio001">
   <eClassifiers xsi:type="ecore:EClass" name="Probando001"/>
   <eClassifiers xsi:type="ecore:EClass" name="Probando002"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Probando003"/>
 </ecore:EPackage>
