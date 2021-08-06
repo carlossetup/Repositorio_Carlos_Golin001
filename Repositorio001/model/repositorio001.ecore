@@ -3,4 +3,5 @@
     xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="repositorio001" nsURI="http://www.example.org/repositorio001"
     nsPrefix="repositorio001">
   <eClassifiers xsi:type="ecore:EClass" name="Probando001"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Probando002"/>
 </ecore:EPackage>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
   <viewpoint:DAnalysis uid="_fqAsgPbXEeuw2v-3X1WM_w" selectedViews="_gFbdMPbXEeuw2v-3X1WM_w" version="14.5.0.202104161500">
     <semanticResources>repositorio001.ecore</semanticResources>
     <semanticResources>repositorio001.genmodel</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_gFbdMPbXEeuw2v-3X1WM_w">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_gJGcQPbXEeuw2v-3X1WM_w" name="repositorio001" repPath="#_gHrf8PbXEeuw2v-3X1WM_w" changeId="84f3563b-452f-484c-aad7-f7d426450bba">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_gJGcQPbXEeuw2v-3X1WM_w" name="repositorio001" repPath="#_gHrf8PbXEeuw2v-3X1WM_w" changeId="bf8c498f-41d6-4acf-912c-db666f0160f6">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
         <target xmi:type="ecore:EPackage" href="repositorio001.ecore#/"/>
       </ownedRepresentationDescriptors>
@@ -14,12 +14,29 @@
   <diagram:DSemanticDiagram uid="_gHrf8PbXEeuw2v-3X1WM_w">
     <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_gJ4fYPbXEeuw2v-3X1WM_w" source="GMF_DIAGRAMS">
       <data xmi:type="notation:Diagram" xmi:id="_gJ4fYfbXEeuw2v-3X1WM_w" type="Sirius" element="_gHrf8PbXEeuw2v-3X1WM_w" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_9KotcPcGEeuDZ4UMa1US4w" type="2003" element="_9KZc4PcGEeuDZ4UMa1US4w">
+          <children xmi:type="notation:Node" xmi:id="_9KqioPcGEeuDZ4UMa1US4w" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_9Ktl8PcGEeuDZ4UMa1US4w" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_9Ktl8fcGEeuDZ4UMa1US4w"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_9Ktl8vcGEeuDZ4UMa1US4w"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_9KotcfcGEeuDZ4UMa1US4w" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9KotcvcGEeuDZ4UMa1US4w"/>
+        </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_gJ4fYvbXEeuw2v-3X1WM_w"/>
       </data>
     </ownedAnnotationEntries>
     <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_gMz3kPbXEeuw2v-3X1WM_w" source="DANNOTATION_CUSTOMIZATION_KEY">
       <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_gM0eoPbXEeuw2v-3X1WM_w"/>
     </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_9KZc4PcGEeuDZ4UMa1US4w" name="Probando001" tooltipText="" width="12" height="10">
+      <target xmi:type="ecore:EClass" href="repositorio001.ecore#//Probando001"/>
+      <semanticElements xmi:type="ecore:EClass" href="repositorio001.ecore#//Probando001"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_9KdHQPcGEeuDZ4UMa1US4w" borderSize="1" borderSizeComputationExpression="1" backgroundStyle="Liquid" foregroundColor="255,252,216">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+    </ownedDiagramElements>
     <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_gIfYQPbXEeuw2v-3X1WM_w"/>
     <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer"/>
